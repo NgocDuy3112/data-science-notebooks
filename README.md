@@ -7,4 +7,8 @@ To get started with this repository, create a folder and run the following comma
 
 You need to install [Python](https://www.python.org/) and [Conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) in order to run the code in local. 
 
+If you want to update the repository, run the following command:
+
+`git pull main https://github.com/NgocDuy3112/data-science-notebooks.git`
+
 Feel free to use and report any issues or questions about this repository.
